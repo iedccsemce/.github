@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20%">
   
   # Innovation and Entrepreneurship Development Club - CSE
   
@@ -35,11 +35,16 @@ To be the catalyst for nurturing future tech entrepreneurs who drive meaningful 
 - **Startup Incubation** - Support for student startups from ideation to market
 - **Networking Events** - Connect with fellow innovators and potential investors
 
-## 🎮 Interactive Snake Game
+## 🎮 Snake Game
 
 <!-- GitHub contribution snake animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake game" width="100%">
+  <!-- Using a more colorful and visible version of the snake animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
 </div>
 
 ## 📆 Events
@@ -71,7 +76,6 @@ To be the catalyst for nurturing future tech entrepreneurs who drive meaningful 
 An intensive 24-hour hackathon where teams compete to develop innovative solutions to real-world problems
 </details>
 
-
 <!---
 ## 🏆 Achievements
 
@@ -88,9 +92,9 @@ An intensive 24-hour hackathon where teams compete to develop innovative solutio
 ## 💻 Technologies We Work With
 
 <div align="center">
-  
 
-  
+
+
 </div>
 -->
 <!---
@@ -98,6 +102,7 @@ An intensive 24-hour hackathon where teams compete to develop innovative solutio
 
 - [Learning Resources](http://example.com)
 -->
+
 ## 🤝 Join Us
 
 <div align="center">
