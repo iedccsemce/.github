@@ -54,7 +54,7 @@ To be the catalyst for nurturing future tech entrepreneurs who drive meaningful 
     <td width="50%">
       <h3 align="center">Quick Code 2025</h3>
       <p align="center">
-        <a href="https://iedccse.vercel.app" target="_blank"><img src="https://img.shields.io/badge/REGISTER_NOW-blue?style=for-the-badge"></a>
+        <a href="https://iedccse.fillout.com/quick-code" target="_blank"><img src="https://img.shields.io/badge/REGISTER_NOW-blue?style=for-the-badge"></a>
       </p>
       <p>An intensive 24-hour hackathon where teams compete to develop innovative solutions to real-world problems.</p>
     </td>
